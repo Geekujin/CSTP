@@ -1,6 +1,7 @@
 # CSTP EPA Toolkit 
 
 This is my study kit for the CSTP EPA practicals. 
+The file structure will contain materials to aid with the practical assessments. Information about the exercise requirements can be found in the Wiki.
 
 ### 💡 What it's for
 I pulled this repo together to help me plan for the EPA, and is a combo of various bits of info I pulled together. 
