@@ -1,9 +1,11 @@
-# CSTP EPA Toolkit 
+# CSTP Toolkit 
 
 ## About
 ### 💡 What it's for
 
 I started pulling this repo together to collect materials to help with studying, assignments and the practical Endpoint Assessment (EPA). 
+
+All files are written in markdown.
 
 It will include:
 - Useful links to potentially useful data sets, reference sites and both online and offline tools.
@@ -13,9 +15,9 @@ It will include:
 ### ❌ What it isn't
 This isn't a 'quick win' data dump designed to help people complete the degree without doing their own own work. It's merely an aid to learning, helping to reduce the time spent hunting for specific resources or information so the focus can be on completing the work and writing it up.
 
-## Contents
-- [Useful Links](#) - A collection of useful links
-- [End Point Assessmnet](#) - EPA exercises and marking criteria
+## 📋Contents
+- [Useful Links](https://github.com/Geekujin/CSTP/blob/main/Useful-Links.md) - A collection of useful links
+- [End Point Assessmnet](https://github.com/Geekujin/CSTP/tree/main/EndpointAssessments) - EPA exercises and marking criteria
 
 ***
 
