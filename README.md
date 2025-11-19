@@ -15,13 +15,13 @@ It will include:
 ### ❌ What it isn't
 This isn't a 'quick win' data dump designed to help people complete the degree without doing their own own work. It's merely an aid to learning, helping to reduce the time spent hunting for specific resources or information so the focus can be on completing the work and writing it up.
 
-## 📋Contents
+## Contents
 - [Useful Links](https://github.com/Geekujin/CSTP/blob/main/Useful-Links.md) - A collection of useful links
 - [End Point Assessment](https://github.com/Geekujin/CSTP/tree/main/EndpointAssessments) - EPA exercises and marking criteria
 
 ***
 
-### ⚠️ Disclaimer
+#### ⚠️ Disclaimer
 The information gathered has been done so using official resources as source where possible. I take no responsibility for any missing or outdated information, as the official documentation may change at any time. All copyrighted content used under fair use.
 
 Please raise an issue if you'd like a resource adding, or consider making a pull request 😊
