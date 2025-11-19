@@ -17,7 +17,7 @@ This isn't a 'quick win' data dump designed to help people complete the degree w
 
 ## 📋Contents
 - [Useful Links](https://github.com/Geekujin/CSTP/blob/main/Useful-Links.md) - A collection of useful links
-- [End Point Assessmnet](https://github.com/Geekujin/CSTP/tree/main/EndpointAssessments) - EPA exercises and marking criteria
+- [End Point Assessment](https://github.com/Geekujin/CSTP/tree/main/EndpointAssessments) - EPA exercises and marking criteria
 
 ***
 
