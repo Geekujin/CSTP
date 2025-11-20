@@ -19,6 +19,7 @@ This file contains links to useful tools and resourcesthat may be beneficial dur
 - [Who.Is](https://who.is) - Domain registration and DNS information
 - [WTF Is My IP?](https://wtfismyip.com/) - Displays your external IP address using NSFW language :)
 - [CVE Details](https://www.cvedetails.com/) - A search engine for CVEs. Search by CVE ID, vendor or product.
+- [Smart Draw](https://www.smartdraw.com/) - Online flow chart creator (no signup required)
 
 ***
 
